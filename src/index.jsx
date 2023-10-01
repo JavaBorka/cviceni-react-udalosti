@@ -9,7 +9,9 @@ import { Uloha5 } from './Uloha5'
 import { ZaverecnyBonus1 } from './ZaverecnyBonus1'
 import { ZaverecnyBonus2 } from './ZaverecnyBonus2'
 
+
 const App = () => (
+	
 	<div className="container">
 		<h1>React události</h1>
 		<h2>Úloha 1</h2>
